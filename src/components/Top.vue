@@ -20,6 +20,7 @@
         width: 100%;
         background-color: #444;
         font-size: 13px;
+        min-width: 1400px;
     }
     .main{
         width: 1400px;

@@ -18,6 +18,7 @@
     .wrap{
         width: 100%;
         padding: 10px 0;
+        min-width: 1400px;
     }
     .content{
         width: 1400px;

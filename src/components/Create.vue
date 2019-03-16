@@ -83,6 +83,7 @@
         width: 100%;
         background-color: #e1e1e1;
         padding-top: 15px;
+        min-width: 1400px;
     }
     .main{
         margin: 0 auto;

@@ -118,6 +118,9 @@
     }
 </script>
 <style scoped>
+    .wrap{
+        min-width: 1400px;
+    }
     a{
         color: #778087;
         text-decoration: none;
@@ -126,6 +129,7 @@
         width: 100%;
         background-color: #e1e1e1;
         padding-top: 15px;
+        padding-bottom: 10px;
     }
     .main{
         width: 1400px;

@@ -135,6 +135,7 @@
         width: 100%;
         background-color: #e1e1e1;
         font-size: 14px;
+        min-width: 1400px;
     }
     .main{
         width: 1400px;
